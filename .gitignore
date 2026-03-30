@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Extracted text (intermediate files from markitdown)
+*_text.md
+
+# Skill outputs (user-generated, not part of the plugin)
+design-guideline.yaml
+presentation-slide.html
+presentation-page.html
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude local settings
+.claude/settings.local.json

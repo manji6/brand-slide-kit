@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brand-slide-kit",
+  "owner": {
+    "name": "manji6",
+    "url": "https://github.com/manji6"
+  },
+  "plugins": [
+    {
+      "name": "brand-slide",
+      "description": "Extract brand design elements from PPTX/PDF/images and build branded HTML presentations from Markdown.",
+      "source": ".",
+      "version": "1.0.0",
+      "author": {
+        "name": "manji6"
+      },
+      "homepage": "https://github.com/manji6/brand-slide-kit",
+      "license": "MIT",
+      "keywords": ["design", "presentation", "slides", "brand", "pptx", "html"]
+    }
+  ]
+}
