@@ -10,8 +10,8 @@
       "name": "brand-slide",
       "description": "Extract brand design elements from PPTX/PDF/images and build branded HTML presentations from Markdown.",
       "source": {
-        "source": "github",
-        "repo": "manji6/brand-slide-kit"
+        "source": "url",
+        "url": "https://github.com/manji6/brand-slide-kit.git"
       },
       "version": "1.0.0",
       "author": {
